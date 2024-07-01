@@ -1,1 +1,3 @@
 # CBTC-full-stack-development--
+# TASK 01: -   EVENTPLANNER360
+EventPlanner360 is an all-in-one event management platform enabling users to plan, organize, and oversee diverse events like conferences, weddings, and parties. With features for event creation, guest list management, budget tracking, vendor coordination, and scheduling, users can streamline planning efforts. Personalized event pages, invitation management, and RSVP tracking enhance user experience. Integration with payment gateways facilitates ticket sales and online transactions, fostering seamless event execution and collaboration among organizers, vendors, and attendees.
